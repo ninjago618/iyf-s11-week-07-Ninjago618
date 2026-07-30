@@ -7,7 +7,7 @@
 - **Date:** 7,30,2026
 
 ## Project Description
-Improving my coding skills Personal projects, coding challenges, and web development experiments.
+Improve your JavaScript projects by applying professional coding practices, managing application state, and persisting data with browser storage.
 # Week {Number}: {Project Title}
 
 ## Technologies Used
