@@ -34,7 +34,7 @@ Improve your JavaScript projects by applying professional coding practices, mana
 
 
 ## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+![Screenshot description]
 
 ## Live Demo (if deployed)
-[View Live Demo]()
+[View Live Demo](https://ninjago618.github.io/iyf-s11-week-07-Ninjago618/)
