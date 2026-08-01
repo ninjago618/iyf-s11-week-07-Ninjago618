@@ -28,10 +28,12 @@ Improve your JavaScript projects by applying professional coding practices, mana
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-
-
+ive learned how to use local storage to save tasks
+learned how to connect javascript modules and storage
+learned how to debug javascript errors
 ## Challenges Faced
-
+finding and fixing errors using browser console 
+connecting the different javascript module correctly
 
 ## Screenshots (optional)
 ![Screenshot description]
